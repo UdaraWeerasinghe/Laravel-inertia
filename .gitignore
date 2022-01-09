@@ -1,1 +1,5 @@
-node_modules/.bin/multicast-dns
+vendor
+node_modules/.cache
+public/mix-manifest.json
+public/css/app.css
+public/js/app.js
